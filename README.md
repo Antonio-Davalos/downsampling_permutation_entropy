@@ -1,5 +1,5 @@
 # dpe
-Downsampling Permutation Entropy
+*Downsampling Permutation Entropy*
 
 by Antonio Dávalos
 
